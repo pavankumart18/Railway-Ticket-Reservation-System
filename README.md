@@ -1,4 +1,4 @@
-# Train Reservation Booking System - Based on Gender
+# Railway Ticket Reservation System - Based on Gender
 
 This project implements a train berth booking system in Python. It allows for booking train berths across different classes and seat types, while also providing visual representations of each class's seating arrangement.
 
