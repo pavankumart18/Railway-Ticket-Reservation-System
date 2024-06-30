@@ -171,12 +171,3 @@ class General:
                         print(' ', end="")
                 print()
             print()
-#Testing
-# b=BoxC()
-# b.draw_box()
-#Testing
-# b=BoxB()
-# b.draw_box()
-#Testing
-# b=BoxA()
-# b.draw_box()
